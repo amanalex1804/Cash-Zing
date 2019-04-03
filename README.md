@@ -7,7 +7,7 @@ Technology Used : NodeJs, MongoDB, JavaScript,Bootstrap ,Semantic UI ,CSS ,HTML
 
 # Feature
 
-* MongoDB TTL Index is used to expire the record after the provided duration of time .
+* MongoDB TTL Index is used to expire(remove) the record from the database after the provided duration of time .
   Reference : https://docs.mongodb.com/manual/core/index-ttl/
 
 * sort function is used to show the best cashback and grouping the companies.
